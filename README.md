@@ -60,7 +60,7 @@ The proxy maintains perfect profile consistency across all protocols (HTTP, HTTP
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/boring-proxy.git
+git clone https://github.com/Zenaker/boring-proxy.git
 cd boring-proxy
 ```
 
